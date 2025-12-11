@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Anime Verse — Home</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>Anime Verse</h1>
+    <nav>
+      <a data-page="home" class="active">Home</a>
+      <a data-page="list">Anime List</a>
+      <a data-page="news">News</a>
+      <a data-page="community">Community</a>
+    </nav>
+  </header>
+<section id="home" class="page active">
+    <div class="hero">
+        <img src="C:\Users\ACER\Downloads\Gemini_Generated_Image_wni0tpwni0tpwni0.png" alt="Anime Verse Logo" 
+             style="width:150px; margin-bottom:20px; filter: drop-shadow(0 0 8px rgba(0,0,0,0.4));">
+      <h2>Welcome to Anime Verse</h2>
+      <p style="font-size:18px; color:#f1f1f1; line-height:1.7;">
+            Welcome to <strong>Anime Verse</strong> — your ultimate hub for anime lovers!  
+            We bring you the latest anime news, updates, reviews, upcoming releases, 
+            and everything happening across the anime universe.
+        </p>
+
+        <p style="font-size:18px; color:#f1f1f1; line-height:1.7;">
+            Anime Verse is also your trusted destination for quality anime merchandise.  
+            From apparel and posters to collectibles and accessories, we offer items 
+            that help fans express their passion.
+        </p>
+
+        <p style="font-size:18px; color:#f1f1f1; line-height:1.7;">
+            Our mission is to build a friendly community where fans can stay informed, 
+            shop anime goods, and enjoy the anime world together.
+        </p>
+
+    </div>
+<h3>Trending Anime</h3>
+    <div class="anime-list">
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/7j/wallhaven-7jj6je.jpg" alt="">
+        <p>ONE PIECE</p>
+      </div>
+
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/ey/wallhaven-eyerrr.jpg" alt="">
+        <p>DEMON SLAYER</p>
+      </div>
+
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/6q/wallhaven-6qyvyq.jpg" alt="">
+        <p>ATTACK ON TITAN</p>
+      </div>
+
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/e7/wallhaven-e7ydmo.jpg" alt="">
+        <p>NARUTO SHIPPUDEN</p>
+      </div>
+
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/1j/wallhaven-1jvl5g.jpg" alt="">
+        <p>BLEACH</p>
+      </div>
+    </div>
+  </section>
+<section id="list" class="page">
+    <h3>All Trending Anime</h3>
+    <div class="anime-list">
+      
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/7j/wallhaven-7jj6je.jpg" alt="">
+        <p>ONE PIECE</p>
+      </div>
+
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/ey/wallhaven-eyerrr.jpg" alt="">
+        <p>DEMON SLAYER</p>
+      </div>
+
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/6q/wallhaven-6qyvyq.jpg" alt="">
+        <p>ATTACK ON TITAN</p>
+      </div>
+
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/e7/wallhaven-e7ydmo.jpg" alt="">
+        <p>NARUTO SHIPPUDEN</p>
+      </div>
+
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/1j/wallhaven-1jvl5g.jpg" alt="">
+        <p>BLEACH</p>
+      </div>
+
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/j3/wallhaven-j3xrzw.jpg" alt="">
+        <p>TOKYO REVENGERS</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/md/wallhaven-md5r81.png" alt="">
+        <p>GRAVE OF THE FIREFLIES</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/po/wallhaven-po8yvj.jpg" alt="">
+        <p>SOLO LEVELING</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/o3/wallhaven-o3gdwm.jpg" alt="">
+        <p>JUJUTSU KAISEN</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/zx/wallhaven-zx73vg.jpg" alt="">
+        <p>ONE PUNCH MAN</p>
+      </div>
+
+
+       <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/ml/wallhaven-mld2v1.jpg" alt="">
+        <p>SAKAMOTO DAYS</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/qd/wallhaven-qd5kzl.jpg" alt="">
+        <p>MY HERO ACADEMIA</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/gp/wallhaven-gppoj7.jpg" alt="">
+        <p>BLUE LOCK</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/m3/wallhaven-m3o861.png" alt="">
+        <p>DANDADAN</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/dg/wallhaven-dgdd8j.png" alt="">
+        <p>VINLAND SAGA</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/7p/wallhaven-7pk5w9.png" alt="">
+        <p>BERSERK</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/g7/wallhaven-g7g1dl.jpg" alt="">
+        <p>SPY X FAMILY</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/l8/wallhaven-l8mvwr.png" alt="">
+        <p>CHAINSAWMAN</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/wq/wallhaven-wq81yx.png" alt="">
+        <p>BLACK CLOVER</p>
+      </div>
+      <div class="anime-card">
+        <img src="https://w.wallhaven.cc/full/j8/wallhaven-j8wg8y.jpg" alt="">
+        <p>DEATH NOTE</p>
+      </div>
+    </div>
+
+  </section>
+<section id="news" class="page">
+     <h3>Latest News</h3>
+    <h4>One Piece</h4>
+    <p>The One Piece anime by Toei Animation has been a weekly anime for the most part since the series inception in 1999. Hence, fans have always been eagerly awaiting the release of new One Piece episodes every week for decades now. However, the long-standing weekly release tradition is about to change as Toei Animation has made a statement regarding the One Piece anime’s release schedule going forward today.</p>
+    <p>Unfortunately, the One Piece anime is confirmed to take a three-month break (January-March 2026) after the conclusion of the Egghead arc later this year. More importantly, the Toei Animation staff have revealed that the One Piece anime will be broadcasting only 26 episodes per year from 2026. So, yes! The One Piece anime is becoming a seasonal anime with 26 episodes (previously a weekly anime) starting next year.
+       Following another long break, the most-awaited Elbaf arc will begin in the One Piece anime starting in April 2026. The production staff has also remarked that One Piece anime will be a 1:1 anime adaptation going forward, i.e., each new episode will cover only one manga chapter from the Elbaf arc.</p>
+    <br>
+       <h4>Demon Slayer</h4>
+    <p>The main recent news is that Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle is currently in theaters, concluding the series with a three-part movie trilogy.</p>
+      <p>The first film was released in Japan in July 2025 and in the UK in September 2025, and its success has led to a significant box office performance. There will be no Demon Slayer season 5, as the story is being adapted into these films instead.
+    </p>
+    <br>
+    <h4>Attack on Titan</h4>
+    <p>Attack on Titan has become one of the most beloved anime IPs all around the world. The series first blew up in 2013 with its anime adaptation and has since become one of the most recognizable anime series ever. While it enjoyed a sensational run, Attack on Titan sadly concluded in 2023 with its final anime season.</p>
+     <p>Since then, nothing major has come fans’ way, apart from a recompilation movie. But now, a new Attack on Titan game is coming.</p>
+    <br>
+    <h4>Solo Leveling</h4>
+    <p>There is no official announcement for Solo Leveling Season 3, and a release date is unlikely before late 2026 or later.Season 2 concluded in March 2025, and the production team wants to give animators a break after creating over 220,000 frames of animation</p>
+    <p>Producer Atsushi Kaneko has teased "great news" is coming, though it's unclear if this relates to the anime or another project.</p>
+    <br>
+       <h4>One-Punch Man</h4>
+    <p>One-Punch Man began airing in 2015, many fans hailed it as an animated tour de force. Under director Shingo Natsume, Studio Madhouse put together a fluid and visually rich martial arts anime that made even the relatively simple premise of a hero who beats every monster with a single punch look iconic.</p>
+    <p>Yusuke Murata's manga art was already known for being incredibly detailed, and the animation style in the first season did a spectacular job adapting what had already been successful on the page.
+       2019 gave audiences One-Punch Man Season 2, animated by JC Staff and directed by Chikara Sakurai, and the difference in visual quality was immediately noticeable. Fans criticized the second Season for its use of CGI and choppy animation, but hoped Season 3 would see a return of the animation quality that had so impressed everyone, especially with the change in directorship from Chikara Sakurai to Shinpei Nagai. Unfortunately, that is not what has happened.</p>
+    <br>
+       <h4>Jujutsu Kaisen</h4>
+    <p>Jujutsu Kaisen fans are all hyped for the third season’s premiere, especially since it’s the first time the anime will return after the manga’s ending in September last year. To commemorate the anime’s return in Winter 2026, the official X handle of Jujutsu Kaisen confirms that all episodes on the streaming platforms will switch to the Blu-ray & DVD versions starting December 1.</p>
+    <p> Blu-ray & DVD versions are distributed separately a few months after the anime’s release, and they aren’t usually streaming on any platforms. It’s common for anime studios to broadcast episodes with dimming and ghosting that tone down the bright, flashing, or rapid effects in order to avoid viewers having seizures.
+  This has been a common safety practice in anime ever since the infamous incident in 1997 when a Pokémon episode caused seizures in hundreds of children. Additionally, since the streaming platforms add the episodes before the Blu-ray & DVD versions are officially released, they also include the versions with dimming and ghosting. It will be the same for the anime’s Season 3 as well, although there’s always a chance that the higher quality versions will be included later on. This is why Jujutsu Kaisen’s latest surprise is the perfect opportunity for fans to rewatch the anime right before the third season’s debut.</p>
+  </section>
+<section id="community" class="page">
+    <h3>Community Highlights</h3>
+    <p>Join discussions, share fan art, and connect with anime fans across the globe!</p>
+    <p>🎨 Submit your artwork and be featured in our monthly Anime Verse showcase!</p>
+    <p>
+    <a href="https://myanimelist.net/clubs.php" target="_blank" style="color: white;">
+    Join MyAnimeList Clubs
+    </a>
+    </p>
+  </section>
+<footer class="footer">
+    <div class="footer-box">
+      <div>
+        <h4>SOCIALS</h4>
+        <p>
+          <a href="https://facebook.com" target="_blank">Facebook</a><br>
+          <a href="https://twitter.com" target="_blank">Twitter</a><br>
+          <a href="https://wa.me/1234567890" target="_blank">WhatsApp</a><br>
+          <a href="https://instagram.com" target="_blank">Instagram</a>
+        </p>
+      </div>
+      <div>
+        <h4>MENU</h4>
+        <p><a href="#home">Home</a><br><a href="#list">Anime List</a></p>
+      </div>
+      <div>
+        <h4>CONTACT US</h4>
+        <p><a href="https://mail.google.com/mail/u/0/#inbox?compose=new">Kisnamagar38@email.com</a></p>
+        <p><a href="https://mail.google.com/mail/u/0/#inbox?compose=new">Madanchhetri2062@email.com</a></p>
+        <p><a href="https://mail.google.com/mail/u/0/?hl=en-GB#inbox?compose=new">Bijaythapamagar988@email.com</a></p>
+      </div>
+    </div>
+    <p class="copyright">© 2025 Anime Verse — All rights reserved.</p>
+  </footer>
+<div id="buyModal" class="modal">
+    <div class="modal-content">
+      <span id="closeModal" class="close">&times;</span>
+      <h2>Buy Franchise</h2>
+      <p id="franchiseTitle"></p>
+
+      <label>Name:</label>
+      <input type="text" id="buyerName" placeholder="Your Name" required/>
+
+      <label>Email:</label>
+      <input type="email" id="buyerEmail" placeholder="Your Email" required/>
+
+      <button id="confirmBuy">Confirm Purchase</button>
+    </div>
+  </div>
+</body>
+</html>
